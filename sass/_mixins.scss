@@ -1,0 +1,18 @@
+/* @import "_variables.scss"
+    
+$extend1: {
+    content:"";
+    position:absolute;
+    bottom:-1rem;
+    height:1rem;
+    width:30%;
+    background-color: $border_border_top_header;
+}
+*/
+
+$mq_1_min_width:701px;
+$mq_1_max_width: 900px;
+
+$mq_2_min_width: 901px;
+$mq_2_max_width: 1400p;
+
